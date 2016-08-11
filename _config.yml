@@ -1,0 +1,14 @@
+layout_spectrum: 0.3972197324037552
+typography_spectrum: 0.011424599681049585
+color:
+  brandStrength: 0.8960358095355332
+  lightness: 0.362942932639271
+  saturation: 0.8797898644115776
+  rhythmicContrast: 0.46114811347797513
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: 'Chromatics '
